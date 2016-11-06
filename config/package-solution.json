@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "angular-sample-client-side-solution",
+    "id": "7104334b-97f1-4ca9-b4cd-7d1c2c790b94",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/angular-sample.spapp"
+  }
+}
